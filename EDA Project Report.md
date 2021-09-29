@@ -26,3 +26,5 @@ In order to reduce the amount of working with 12 months I have used functions ef
 -	Date to time
 -	SqlAlchemy
 
+# Communication 
+In addition to the slides and visuals presented, I have enclded a map of the proposed location. 
